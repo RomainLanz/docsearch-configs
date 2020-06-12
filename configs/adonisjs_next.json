@@ -3,7 +3,7 @@
   "start_urls": [
     "https://preview.adonisjs.com/"
   ],
-  "stop_urls": [],
+  "stop_urls": ["https://preview.adonisjs.com/blog"],
   "selectors": {
     "lvl0": ".docs-wrapper > div > div h1, .article h1",
     "lvl1": ".docs-wrapper > div > div h2, .article h2",
